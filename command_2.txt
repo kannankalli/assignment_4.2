@@ -1,0 +1,6 @@
+
+hadoop jar /home/acadgild/Desktop/TotalUnitsSoldByOnidaEachState.jar /user/acadgild/television.txt /user/acadgild/out_onida
+
+
+
+
