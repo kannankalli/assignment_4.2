@@ -1,0 +1,6 @@
+
+hadoop jar /home/acadgild/Desktop/TotalUnitsSoldByCompanies.jar /user/acadgild/television.txt /user/acadgild/out_sold_company
+
+
+
+
